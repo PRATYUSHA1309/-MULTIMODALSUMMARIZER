@@ -1,5 +1,5 @@
 # MULTIMODAL SUMMARIZER
- ## MULTIMODALSUMMARIZER–TEXT AND YOUTUBE SUMMARIZATION USING HUGGINGFACE AND GRADIO
+ ## TEXT AND YOUTUBE SUMMARIZATION USING HUGGINGFACE AND GRADIO
  ### • Developed an interactive GenAI-powered application to summarize both YouTube videos and raw text content, showcasing real-world utility of multimodal summarization.
  
  ### • Used YouTube Transcript API to extract video captions and applied pre-trained transformer models (t5-small, bart, for abstractive summarization.
